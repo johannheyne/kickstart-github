@@ -1,0 +1,15 @@
+{
+  "name": "Projekt",
+  "version": "0.0.1",
+  "description": "Tool",
+  "homepage": "http://",
+  "author": {
+    "name": "Johann Heyne",
+    "email": "mail@johannheyne.de",
+    "url": "http://www.johannheyne.de"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-bump": "~0.3.0"
+  }
+}

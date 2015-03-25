@@ -1,7 +1,7 @@
 <?php
 
 	/*
-		Version: 0.0.55
+		Version: 0.1.0
 	*/
 	
 
